@@ -1,0 +1,4 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cmake.sourceDirectory": "/home/octopus/Documents/github/flutter/first_app/linux/flutter"
+}
